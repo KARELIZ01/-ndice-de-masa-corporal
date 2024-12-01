@@ -31,6 +31,4 @@ public class App {
                 return LETRAS.charAt(numero % 23);
                 }
             }
-
-
         
